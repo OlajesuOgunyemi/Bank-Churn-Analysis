@@ -9,7 +9,7 @@
 
 [Project Visuals Implemented](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-visuals-implemented) 
 
-Project Key Insights 
+[Project Key Insights](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#key-insights) 
 
 Project Recommendation 
 
