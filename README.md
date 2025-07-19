@@ -15,11 +15,11 @@ Project Recommendation
 
 Portfolio Impact 
 
- **Project Objectives**: 
+ ### Project Objectives: 
 
 This project helps to understand the key factor behind why customers leave a retail bank(churn), and provide targeted, actionable recommendation to reduce customer attrition and improve retention 
 
- **Dataset Description**
+ ### Dataset Description
  
  **-Source**: Bank Churn dataset (10,000 records), commonly used in industry case studies [Maven analytics website](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=bank%20churn)
 
@@ -33,7 +33,7 @@ This project helps to understand the key factor behind why customers leave a ret
 
          
 
-  **Project Analytical Question Answered**
+  ### Project Analytical Question Answered
 
 **1**  Which attribute (demographic or behavioral) are more common among churners vs Non churners 
 
@@ -43,7 +43,7 @@ This project helps to understand the key factor behind why customers leave a ret
 
 **4** What segment exist within the bank customer base, like age and credit score grouping and how did they how do they influence churn 
 
-**Project Visuals Implemented**
+### Project Visuals Implemented
 
 .Bar Chart 
 
@@ -55,7 +55,7 @@ This project helps to understand the key factor behind why customers leave a ret
 
 .KPI Card
 
- **KEY INSIGHTS** 
+ ### KEY INSIGHTS
 
 **.Higher churn rate** :among customers aged 46-55  56-65 
 
@@ -65,7 +65,7 @@ This project helps to understand the key factor behind why customers leave a ret
 
 **.Tenure** : Newer customer (less than 6 month) showed higher attrition 
 
-**RECOMMENDATION** 
+### RECOMMENDATION
 
 **. Promote Product Bundling** : Encourage low product users to explore additional services 
 
@@ -75,7 +75,7 @@ This project helps to understand the key factor behind why customers leave a ret
 
 **. Investigation** : Investigate the reason for lower churn in other geography (France, Spain) in order to increase the account behavior in the geography (country) 
 
- **PORTFOLIO IMPACT** 
+ ### PORTFOLIO IMPACT
 
 . Ability to handle real word banking data 
 
