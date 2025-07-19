@@ -36,6 +36,7 @@ This project helps to understand the key factor behind why customers leave a ret
   ### Project Analytical Question Answered
 
 **1**  Which attribute (demographic or behavioral) are more common among churners vs Non churners 
+![](
 
  **2** What does the overall demographic profile of bank churners look like 
 
