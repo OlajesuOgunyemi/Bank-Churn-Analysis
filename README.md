@@ -13,7 +13,7 @@
 
 [Project Recommendation](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#recommendation) 
 
-Portfolio Impact 
+[Portfolio Impact](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#portfolio-impact) 
 
  ### Project Objectives: 
 
