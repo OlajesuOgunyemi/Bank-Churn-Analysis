@@ -5,7 +5,7 @@
 
 [Dataset Description](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#dataset-description) 
 
-Project Analytical Questions 
+[Project Analytical Questions](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-analytical-question-answered) 
 
 Project Visuals Implemented 
 
