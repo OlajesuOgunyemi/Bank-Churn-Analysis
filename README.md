@@ -37,7 +37,7 @@ This project helps the bank to identify patterns, understand the key factor behi
 
 **1**  Which attribute (demographic or behavioral) are more common among churners vs Non churner
 
- **2** What does the overall demographic profile of bank churners look like 
+**2** What does the overall demographic profile of bank churners look like 
 
 **3** Are there difference in account behavior based on geography? (e.g.. Churn rate by region) 
 
