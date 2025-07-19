@@ -17,7 +17,7 @@
 
  ### Project Objectives: 
 
-This project helps to understand the key factor behind why customers leave a retail bank(churn), and provide targeted, actionable recommendation to reduce customer attrition and improve retention 
+This project helps the bank to identify patterns, understand the key factor behind why customers leave a retail bank(churn), and provide targeted, actionable recommendation to reduce customer attrition and improve retention 
 
  ### Dataset Description
  
@@ -35,8 +35,7 @@ This project helps to understand the key factor behind why customers leave a ret
 
   ### Project Analytical Question Answered
 
-**1**  Which attribute (demographic or behavioral) are more common among churners vs Non churners 
-![](
+**1**  Which attribute (demographic or behavioral) are more common among churners vs Non churner
 
  **2** What does the overall demographic profile of bank churners look like 
 
