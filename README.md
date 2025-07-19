@@ -11,7 +11,7 @@
 
 [Project Key Insights](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#key-insights) 
 
-Project Recommendation 
+[Project Recommendation](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#recommendation) 
 
 Portfolio Impact 
 
