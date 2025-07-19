@@ -1,7 +1,7 @@
 # Bank-Churn-Analysis
 **Table of Content** 
 
-Project Objectives
+[Project Objectives](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-objectives)
 
 Dataset Description 
 
