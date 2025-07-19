@@ -75,6 +75,12 @@ This project helps the bank to identify patterns, understand the key factor behi
 
 **. Investigation** : Investigate the reason for lower churn in other geography (France, Spain) in order to increase the account behavior in the geography (country) 
 
+**.Monitor and Re-evaluate** : Continue tracking churn metric monthly/quarterly after intervention 
+
+**. Country Specific Initiative** : Focus retension effort where churn is highest 
+
+ 
+
  ### PORTFOLIO IMPACT
 
 . Ability to handle real word banking data 
