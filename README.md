@@ -3,7 +3,7 @@
 
 [Project Objectives](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-objectives)
 
-Dataset Description 
+[Dataset Description](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#dataset-description) 
 
 Project Analytical Questions 
 
