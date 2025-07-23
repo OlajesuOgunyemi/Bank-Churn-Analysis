@@ -96,7 +96,7 @@ Screenshot taken for project documentation or GitHub upload.
 
 **1**  Which attribute (demographic or behavioral) are more common among churners vs Non churner
 
-**2** What does the overall demographic profile of bank churners look like 
+**2** What does the overall demographic profile of bank churners look like (which means what type of people bank in this organisation and the percentage of people)  
 
 **3** Are there difference in account behavior based on geography? (e.g.. Churn rate by region) 
 
