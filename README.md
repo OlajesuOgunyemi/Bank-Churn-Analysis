@@ -5,6 +5,8 @@
 
 [Project Objectives](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-objectives)
 
+Techniques Applied
+
 [Dataset Description](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#dataset-description) 
 
 [Project Analytical Questions](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-analytical-question-answered) 
@@ -21,6 +23,7 @@
 
 [Portfolio Impact](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#portfolio-impact) 
 
+[Conclusion](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis?tab=readme-ov-file#conclusion)
 
 
 
@@ -41,7 +44,41 @@ This analysis helps decision-makers understand patterns and trends behind custom
 
 This project helps the bank to identify patterns, understand the key factor behind why customers leave a retail bank(churn), and provide targeted, actionable recommendation to reduce customer attrition and improve retention 
 
- ### Dataset Description
+ ## Techniques Applied
+1. Microsoft Power BI
+**Data Connection & Importing:**
+
+Connected to a CSV/Excel file containing bank customer data.
+
+Used Power Query to perform initial cleaning and transformation.
+
+**Data Cleaning & Preparation (Power Query Editor):**
+
+Removed unnecessary columns (e.g., IDs, inactive fields).
+
+Handled null or missing values.
+
+Standardized column names and formats.
+
+Changed data types appropriately (e.g., date, numeric, categorical).
+
+ **Presentation & Reporting**
+ 
+**Dashboard Design:**
+
+Created an interactive, single-page dashboard showing key insights.
+
+Included filters for dynamic analysis.
+
+Used color coding for better visual storytelling (e.g., red for churn).
+
+**Export:**
+
+Dashboard saved as .pbix file.
+
+Screenshot taken for project documentation or GitHub upload.
+
+ ## Dataset Description
  
  **-Source**: Bank Churn dataset (10,000 records), commonly used in industry case studies [Maven analytics website](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=bank%20churn)
 
