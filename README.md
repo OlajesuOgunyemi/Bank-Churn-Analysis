@@ -1,7 +1,7 @@
 # Bank-Churn-Analysis
 **Table of Content** 
 
-**Problem Statement**
+[Problem Statement](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis#problem-statement)
 
 [Project Objectives](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-objectives)
 
@@ -13,9 +13,9 @@
 
 [Project Key Insights](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#key-insights) 
 
-**Challenges Faced**
+[Challenges Faced](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis#challenges-faced)
 
-**Lessons Learned**
+[Lessons Learned](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis#lessons-learned)
 
 [Project Recommendation](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#recommendation) 
 
