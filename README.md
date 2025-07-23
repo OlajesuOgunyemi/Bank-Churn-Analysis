@@ -23,6 +23,7 @@
 
 
 
+
  ## Problem Statement:
 Banks and financial institutions face a significant challenge in customer retention, with customer churn leading to loss of revenue and higher acquisition costs. The objective of this project is to analyze customer behavior using demographic, credit card usage, and account activity data in order to identify the key drivers of churn.
 
@@ -121,7 +122,7 @@ Using Power BI visuals such as pie charts, bar graphs, and slicers allowed me to
 **Importance of Customer Retention:**
 The project reinforced how valuable it is for businesses to not just gain customers, but to keep them — reducing churn saves cost and improves profitability in the long run.
 
- ### PORTFOLIO IMPACT
+ ## PORTFOLIO IMPACT
 
 . Ability to handle real word banking data 
 
@@ -130,6 +131,9 @@ The project reinforced how valuable it is for businesses to not just gain custom
 . Competence in translating data and visualization in strategic action  
 
 . Ability to blend technical skills with business acumen  to reduce churn 
+
+## Conclusion
+The Bank Churn Analysis provided deep insight into the patterns that drive customer attrition. Customers who feel under-engaged or under-valued are most likely to leave. Through personalized engagement, better product exposure, and proactive communication, the bank can significantly reduce its churn rate and improve customer lifetime value.
 
  
 
