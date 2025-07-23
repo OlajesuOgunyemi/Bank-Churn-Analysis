@@ -5,7 +5,7 @@
 
 [Project Objectives](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#project-objectives)
 
-Techniques Applied
+[Techniques Applied](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis?tab=readme-ov-file#techniques-applied)
 
 [Dataset Description](https://github.com/OlajesuOgunyemi/Bank-Churn-Analysis/blob/main/README.md#dataset-description) 
 
